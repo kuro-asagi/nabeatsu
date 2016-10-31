@@ -1,2 +1,3 @@
 # nabeatsu
-we can be nabeatsu until 1000 and enjoy FizzBuzz.
+世界のナベアツプログラム　と　FizzBuzzプログラム(Ruby)
+Webサービス勉強会。
